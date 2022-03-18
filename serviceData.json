@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Hair Shaping",
+    "data": [
+      {
+        "dataName": "ADULT",
+        "subdata": [
+          { "id": 1, "subdataName": "WOMEN", "age": "", "price": "$45" },
+          { "id": 2, "subdataName": "MEN", "age": "", "price": "$20" }
+        ]
+      },
+      {
+        "dataName": "KIDS",
+        "subdata": [
+          { "id": 1, "subdataName": "GIRLS", "age": "2-8", "price": "$25" },
+          { "id": 2, "subdataName": "GIRLS", "age": "9-15", "price": "$25" },
+          { "id": 3, "subdataName": "BOYS ", "age": "2-6", "price": "$20" }
+        ]
+      },
+      {
+        "dataName": "FINISHING ONLY",
+        "subdata": [
+          { "id": 1, "subdataName": "BLOW DRY", "age": "", "price": "$45" },
+          { "id": 2, "subdataName": "UP DO", "age": "", "price": "$20" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Facial",
+    "data": [
+      { "dataName": "TEEN FACIAL", "time": "40 MINS", "price": "$50" },
+      { "dataName": "RE-BALANCING FACIAL", "time": "60 MINS", "price": "$55" },
+      { "dataName": "ANTI AGING FACIAL", "time": "70 MINS", "price": "$85" },
+      { "dataName": "ENERGY POWER FACIAL", "time": "80 MINS", "price": "$105" },
+      { "dataName": "MENS DETOX FACIAL", "time": "60 MINS", "price": "$75" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Waxing",
+    "data": [
+      { "dataName": "CHEST", "price": "$35-60" },
+      { "dataName": "BACK", "price": "$50-75" },
+      { "dataName": "FULL LEGS & BIKINI", "price": "$70-100" },
+      { "dataName": "LOWER LEG", "price": "$25" },
+      { "dataName": "UPPER LEG BIKINI", "price": "$45" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Technical",
+    "extra": " ALL INCLUDE WASH + STYLE",
+    "data": [
+      { "dataName": "COLOUR TOUCH UP", "price": "$35-60" },
+      { "dataName": "FULL COLOUR", "price": "$50-75" },
+      { "dataName": "CORRECTIVE COLOUR", "price": "$70-100" },
+      { "dataName": "HI LITES - PARTIAL", "price": "$25" },
+      { "dataName": "HI LITES - HALF HEAD", "price": "$45" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Body Treatment",
+    "data": [
+      { "dataName": "BACK EXFOLIATION", "time": "40 MINS", "price": "$40" },
+      { "dataName": "EUROPEAN BODY WRAP", "time": "50 MINS", "price": "$45" },
+      {
+        "dataName": "LAVENDER SEA SALT BODY EXFOLIATION",
+        "time": "30 MINS",
+        "price": "$65"
+      },
+      { "dataName": "REFLEXOLOGY", "time": "60 MINS", "price": "$65" },
+      { "dataName": "REFLEXOLOGY", "time": "50 MINS", "price": "$55" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Massage",
+    "data": [
+      { "dataName": "BACK MASSAGE", "time": "35 MINS", "price": "$50" },
+      { "dataName": "RMT MASSAGE", "time": "30 MINS", "price": "$35" },
+      { "dataName": "HOT STONE MASSAGE", "time": "40 MINS", "price": "$35" },
+      { "dataName": "SWEDISH MASSAGE", "time": "50 MINS", "price": "$45" },
+      { "dataName": "COUPLES MASSAGE", "time": "60 MINS", "price": "$65" }
+    ]
+  }
+]
